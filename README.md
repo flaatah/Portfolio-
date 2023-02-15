@@ -2,4 +2,3 @@
 
 Usama Usama 
 
-theme: THEME-NAME
